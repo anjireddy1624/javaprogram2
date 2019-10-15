@@ -1,2 +1,0 @@
-# javaprogram2
-program
